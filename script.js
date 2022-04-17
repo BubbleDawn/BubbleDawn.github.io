@@ -1,4 +1,4 @@
-document.write("准到窒息！6张心理测试图，一秒将你看透！");
+document.write("准到窒息！1张心理测试图，一秒将你看透！");
 
 function sayHello1() {
   var response = prompt ("What's your name?");
